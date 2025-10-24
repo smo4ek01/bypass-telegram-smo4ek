@@ -1,5 +1,5 @@
 # bypass-telegram-smo4ek
-# bypass telegram smo4ek
+
 
 Инструмент для оптимизации Telegram звонков на Windows системах.
 
